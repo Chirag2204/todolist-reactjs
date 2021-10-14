@@ -1,0 +1,34 @@
+.navbar-items{
+    justify-content: flex-end;
+   
+}
+.dropdown-toggle{
+    display:flex;
+    place-items: center;
+}
+
+.todolist{
+    width:40%;
+    text-align: center;
+    margin:auto;
+    border: 2px solid silver;
+    border-radius:10px;
+}
+
+.todolist h3{
+    font-size:30px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.todolist-content{
+    text-align: center;
+    margin-left:90px;
+}
+
+.addtask-form{
+    padding: 20px;
+    width:70%;
+    margin: auto;
+}
